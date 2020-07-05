@@ -1,5 +1,6 @@
 # autonomous-robot
 **Harvard DGMD S-17 Final Project Proposal**
+
 **Autonomous Vehicles, Drones, and Artificial Intelligence**
 
 ### Team Name
