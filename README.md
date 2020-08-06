@@ -7,7 +7,7 @@
 Team kChaser
 
 ### Team Members & Roles
-I am a part-time student with an extremely demanding full-time job. I am electing to complete the project as a team of one to best manage time constraints. Therefore, I will perform all roles. 
+I am electing to complete the project as a team of one to best manage time constraints. Therefore, I will perform all roles. 
 
 ### Project Goal
 My “stretch goal” is to deliver four primary sets of functionality. A “successful” project will deliver at least two:
@@ -28,7 +28,7 @@ My “stretch goal” is to deliver four primary sets of functionality. A “suc
 * My development laptop is a 2018 Macbook Pro with a 2.2 GHz 6-core Intel i7 CPU & 16 GB DDR4 RAM running macOS 10.15.1 Catalina. 
 
 ### Team Meeting Schedule
-Due to my full-time job, most of my work for the class and final project will take place over the weekend. Here is a typical schedule:
+Most of my work for the class and final project will take place over the weekend. Here is a typical schedule:
 
 | Day & Time | Activity |
 | ---------- | -------- |
