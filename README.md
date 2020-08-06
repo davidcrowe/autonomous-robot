@@ -20,7 +20,7 @@ My “stretch goal” is to deliver four primary sets of functionality. A “suc
 ### Software & Development Tools
 
 * I will host project code on [github](https://github.com/davidcrowe/autonomous-robot)
-* I will host all other project documents on [google drive](https://drive.google.com/drive/folders/1xGC0im6Qp8cSsWzJJPexyLn59DIEcpdd?usp=sharing)
+* I will host all other project documents on google drive
 
 ### Hardware
 
